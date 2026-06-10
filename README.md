@@ -27,3 +27,5 @@
 3. **Action 1 (Discord - Send Channel Message)**: 디스코드 포럼(채널)에 메일 제목과 요약 내용을 즉시 전송.  
 4. **Action 2 (Google Sheets - Create Spreadsheet Row)**: 추후 이력 관리를 위해 메일 수신 시간, 발신자, 제목을 구글 시트의 새로운 행으로 자동 저장.  
 
+<img src = "https://github.com/mshan2923/CodysseyMission3/blob/main/image.png">
+<img src = "https://github.com/mshan2923/CodysseyMission3/blob/main/Image2.png">
