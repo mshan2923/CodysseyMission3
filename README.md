@@ -16,6 +16,10 @@
     - **단점**: 복잡한 조건 분기가 들어가면 리스트 형태가 길어져 관리가 어려울 수 있음. 무료 플랜의 작업 제한(Task limit)이 타이트함.
     - **적합 상황**: 간단한 Trigger-Action 구조로 빠르게 자동화를 구축하고 싶을 때.
 
+ <img src = "https://github.com/mshan2923/CodysseyMission3/blob/main/Image0.png">
+<img src = "https://github.com/mshan2923/CodysseyMission3/blob/main/Image2.png">
+
+
 **반복 업무 정의**: 업무 효율을 위해 매일 확인해야 하는 중요 메일의 내용을 디스코드 채널로 실시간 알림을 받고, 구체적인 이력을 구글 시트에 아카이빙하는 작업.  
 **선정 도구**: Zapier   
 • 
@@ -28,7 +32,7 @@
 4. **Action 2 (Google Sheets - Create Spreadsheet Row)**: 추후 이력 관리를 위해 메일 수신 시간, 발신자, 제목을 구글 시트의 새로운 행으로 자동 저장.  
 
 <img src = "https://github.com/mshan2923/CodysseyMission3/blob/main/image.png">
-<img src = "https://github.com/mshan2923/CodysseyMission3/blob/main/Image2.png">
+
 
 - 두 도구 간 워크플로우 동일성 유지를 위한 설계 기준
 Make와 Zapier는 데이터 처리 아키텍처와 인터페이스 구조가 완전히 다르므로, 두 환경에서 완벽히 동일한 결과값을 도출하기 위해 다음과 같은 엄격한 설계 기준을 적용함.
